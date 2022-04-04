@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Nathan1133/Social-Network/issues"
   },
-  "homepage": "https://github.com/Nathan1133/Social-Network#readme"
+  "homepage": "https://github.com/Nathan1133/Social-Network#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "moment": "^2.29.2",
+    "mongoose": "^6.2.9"
+  }
 }
