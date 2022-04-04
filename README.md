@@ -5,7 +5,7 @@ https://drive.google.com/file/d/1qXk2sGPCVx2qf-PvW078MDe3ZRougOhS/view
 
 ## Description
 
-Ecommerce backend. <br />
+App is a social network where users can use it to share thoughts and reactions to those thoughts of other users.  <br />
 
 ## Installation
 
